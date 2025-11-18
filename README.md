@@ -1,7 +1,23 @@
-# C language exercises
+# C_LANGUAGE_EXERCISES 💾
 
-Just a repository to make a history of some of my exercises for my university.
+> *System Message: Archiving university things and  history.*
 
 ![Lain in computer](https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/1641020346561-V6C6CG803L98OUQAOL3H/serial-experiments+-lain-anime-manga-dystopianmanga-cyber-punk-manga-cyberpunk-anime-darkanime-dark-ghostintheshell-vaporwave-RyutaroNakamura-YoshitoshiABe-ChiakiJKonaka)
 
-## Status: Adding things while I study them. 🚧
+---
+
+> ### 💿 **UNIT_01: COMPLETED**
+>
+> The first unit book has been **added**.
+>
+> **// ACCES_CODE_FOLDER:**
+> [**[👁️ UNIT 1 ]**](https://github.com/jpedr0v/c-uni-exercises/tree/main/1_unit)
+
+---
+
+## 📡 **STATUS:** `[UPDATING... ]`
+*Uploading files as studies progress.*
+
+```c
+> `[BIBLE_PSALMS_138.6]`:
+> **"Thy knowledge is become wonderful to me: it is high, and I cannot reach to it."**

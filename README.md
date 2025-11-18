@@ -11,8 +11,8 @@
 > The first unit book has been **added**.
 >
 > **// ACCES_CODE_FOLDER:**
-> [**[👁️ UNIT 1 ]**](https://github.com/jpedr0v/c-uni-exercises/tree/main/1_unit)
-
+> [**[👁️ UNIT 1]**](https://github.com/jpedr0v/c-uni-exercises/tree/main/1_unit)
+> [**[👁️ UNIT 2]**](https://github.com/jpedr0v/c-uni-exercises/tree/main/2_unit)
 ---
 
 ## 📡 **STATUS:** `[UPDATING... ]`

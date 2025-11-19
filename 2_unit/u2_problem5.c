@@ -15,7 +15,8 @@ int main(){
 
     total = 0;
 
-    printf("1 - Italiano 2 - Japones - 3 Salvadorenho\n");
+    // Menu de pratos
+    printf("1 - Italiano 2 - Japones - 3 - Salvadorenho\n");
     printf("Escolha o prato desejado: ");
     scanf("%d", &op);
     switch (op){
@@ -24,10 +25,12 @@ int main(){
         case 2: total = total + 324;
         break;
         case 3: total = total + 545;
-        default: printf("Opção inválida! Nenhuma caloria adicionada.\n");
-        return 0;
         break;
+        default: printf("Opcao invalida! Nenhuma caloria adicionada.\n");
+        return 0;
     }
+
+    // Menu de bebidas
     printf("\n1 - Cha 2 - Suco de laranja 3 - Refrigerante\n");
     printf("Escolha a bebida desejada: ");
     scanf("%d", &op);
@@ -37,9 +40,9 @@ int main(){
         case 2: total = total + 80;
         break;
         case 3: total = total + 90;
-        default: printf("Opção inválida! Nenhuma caloria adicionada.\n");
-        return 0;
         break;
+        default: printf("Opcao invalida! Nenhuma caloria adicionada.\n");
+        return 0;
     }
     printf("O total de calorias eh: %.2f \n", total);
 

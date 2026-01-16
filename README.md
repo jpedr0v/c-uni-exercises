@@ -6,13 +6,14 @@
 
 ---
 
-> ### 💿 **UNIT_01: COMPLETED**
+> ### 💿 **MAPA: COMPLETED**
 >
-> The first unit book has been **added**.
+> The assessment has been **added**.
 >
 > **// ACCES_CODE_FOLDER:**
 > [**[👁️ UNIT 1]**](https://github.com/jpedr0v/c-uni-exercises/tree/main/1_unit)
 > [**[👁️ UNIT 2]**](https://github.com/jpedr0v/c-uni-exercises/tree/main/2_unit)
+> [**[👁️ MAPA]**](https://github.com/jpedr0v/c-uni-exercises/tree/main/mapa)
 ---
 
 ## 📡 **STATUS:** `[UPDATING... ]`
